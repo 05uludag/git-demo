@@ -6,3 +6,5 @@
 
 
 branch de calisma
+
+2. eleman eklme
