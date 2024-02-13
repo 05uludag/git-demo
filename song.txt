@@ -7,4 +7,8 @@
 
 buraya conflict icin ekleme brach dayım feature
 
+
 MAIN DE EKLEME CONFLICT
+
+branch da conflict icin ekleme, maine ekledim güncellemedim branchi
+
