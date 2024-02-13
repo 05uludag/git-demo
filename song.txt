@@ -6,3 +6,5 @@
 
 
 buraya conflict icin ekleme brach dayım feature
+
+MAIN DE EKLEME CONFLICT
