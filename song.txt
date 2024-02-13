@@ -6,3 +6,5 @@
 
 
 buraya conflict icin ekleme brach dayım feature
+
+branch da conflict icin ekleme, maine ekledim güncellemedim branchi
