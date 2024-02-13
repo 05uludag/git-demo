@@ -5,7 +5,4 @@
 6. satir
 
 
-branch de calisma
-
-2. eleman eklme
-3. satır
+buraya conflict icin ekleme brach dayım feature
